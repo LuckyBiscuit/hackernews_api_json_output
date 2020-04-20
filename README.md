@@ -8,4 +8,9 @@ requests
 pprint
 sys
 
+I used json to return the python dictionary response into a JSON string. 
+I used requests to call the API from the hackernews api site. 
+I used pprint module to turn the reponse into a more readable json response. 
+I used sys to pass arguments for the integer into the response
+
 
